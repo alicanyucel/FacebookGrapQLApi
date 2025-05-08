@@ -1,0 +1,6 @@
+@FacebookGrapQLApi_HostAddress = http://localhost:5246
+
+GET {{FacebookGrapQLApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
